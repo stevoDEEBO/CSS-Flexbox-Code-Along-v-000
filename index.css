@@ -18,7 +18,7 @@ main {
   display: flex;
   flex-flow: wrap;
   justify-content: center;
-  align-items: stretch;
+  align-items: baseline;
   align-content: center;
   flex: none;
 }
@@ -39,7 +39,7 @@ footer {
 
 .item {
   background-color: #FCF2EC;
-  /*height: 100px;*/
+  height: 100px;
   width: 100px;
   margin: 5px;
 }
