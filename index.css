@@ -18,6 +18,7 @@ main {
   flex-flow: wrap;
   justify-content: center;
   align-items: center;
+  align-content: center;
 }
 
 footer {
