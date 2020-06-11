@@ -16,7 +16,7 @@ main {
   height: 100%;
   display: flex;
   flex-flow: column wrap;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 footer {
