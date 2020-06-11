@@ -16,7 +16,7 @@ main {
   height: 100%;
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column
+  flex-direction: column;
 }
 
 footer {
