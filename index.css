@@ -48,3 +48,7 @@ footer {
   flex-basis: 100px;
   flex-grow: 1;
 }
+
+.align-self {
+    align-content: flex-end; 
+}
